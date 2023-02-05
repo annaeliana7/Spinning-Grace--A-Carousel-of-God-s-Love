@@ -21,7 +21,7 @@ document.querySelectorAll('.carousel').forEach((carousel) => {
   buttons[selectedIndex].classList.add('carousel__button--selected');
   audios[selectedIndex].play();
 
-  audios.forEach((audio, index) => {
+  audios.forEach((audio) => {
     audio.addEventListener('ended', () => {
       audio.pause();
       buttons[selectedIndex].classList.remove('carousel__button--selected');
