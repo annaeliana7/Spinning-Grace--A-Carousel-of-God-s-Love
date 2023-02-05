@@ -39,18 +39,23 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 NAME OF PROJECT<a name="about-project"></a>
+# 📖 Spinning Grace- A Musical Carousel of God's Love<a name="about-project"></a>
 
-**Name of Project** is a project ...complete sentence
+**Spinning Grace- A Musical Carousel of God's Love** 
+<br>
+
+Spinning Grace: A Musical Carousel of God's Love. This JavaScript repository employs HTML, CSS, JavaScript, Webpack, Linters, Visual Studio Code, and GitHub Pages to create a carousel featuring three songs that symbolize God's almighty love: Amazing Grace, This I Know, and How Great is Our God.
 
 <br>
 
 ## 🛠 Built With <a name="built-with"></a>
     HTML
     CSS
-    Javascript (ES6)
+    Javascript
     Webpack
     Linters
+    Visual Studio Code
+    GitHub
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -62,7 +67,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Name of Project](https://ADD LINK.git)
+[Spinning Grace- A Carousel of God's Love](https://annaeliana7.github.io/Spinning-Grace--A-Musical-Carousel-of-God-s-Love/dist)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,9 +78,9 @@
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone `https://github.com/annaeliana7/ADD LINK.git`
+- On the terminal run this command git clone `https://github.com/annaeliana7/Spinning-Grace--A-Musical-Carousel-of-God-s-Love.git`
 
-- Go to the repository folder using command prompt cd `NAME OF PROJECT`
+- Go to the repository folder using command prompt cd `Spinning Grace- A Musical Carousel of God's Love`
 
 - Install the dev dependencies for linters run npm install.
 
@@ -96,9 +101,9 @@ Clone this repository to your desired folder:
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://ADD LINK.git
+- On the terminal run this command git clone https://github.com/annaeliana7/Spinning-Grace--A-Musical-Carousel-of-God-s-Love.git
 
-- Go to the repository folder using command prompt cd NAME-OF-FILE
+- Go to the repository folder using command prompt cd Spinning Grace- A Musical Carousel of God's Love
 
 - Install the dev dependencies for linters run npm install.
 --->
@@ -130,7 +135,7 @@ Anna Petras
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://ADD LINK.git).
+Feel free to check the [issues page](https://github.com/annaeliana7/Spinning-Grace--A-Musical-Carousel-of-God-s-Love/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
