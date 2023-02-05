@@ -54,12 +54,12 @@ h3 {
 
 .carousel__item {
   display: none;
-  }
+}
 
-  .carousel__item img {
-    width: 100%;
-    height: 77%;
-  }
+.carousel__item img {
+  width: 100%;
+  height: 77%;
+}
 
 .carousel__item--selected {
   display: block;
